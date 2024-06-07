@@ -630,7 +630,7 @@ canvas {
 
 @media (max-width: 650px) {
   .main-section #wrapper-canvas {
-    display: none;
+    display: ;                             /* wrrper canvas animation clss---------------------------*/
   }
 }
 
