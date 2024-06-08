@@ -87,7 +87,7 @@ var swiper = new Swiper('.mySwiper', {
 var typeWriterElement = document.getElementById('typewriter');
 
 // The TextArray: 
-var textArray = ["Full Stack Developer.","Mern Stack Developer.","Frontend Developer.", "Backend Developer."];
+var textArray = ["Full Stack Developer..","Mern Stack Developer..","Frontend Developer..", "Backend Developer.."];
 
 // You can also do this by transfering it through a data-attribute
 // var textArray = typeWriterElement.getAttribute('data-array');
